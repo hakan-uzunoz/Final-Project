@@ -7,7 +7,7 @@ from sac_agent import soft_actor_critic_agent, device
 from replay_memory import ReplayMemory
 import time
 from collections import deque
-import pybullet_envs.bullet.minitaur_gym_env as e
+import minitaur_gym_env as e
 
 
 
